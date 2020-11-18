@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Booya'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'My first Pod'
   s.description      = <<-DESC
 I just want to code.
@@ -14,7 +14,7 @@ I just want to code.
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5'
-  
+
   s.source_files = 'Booya/Classes/**/*'
   
   # s.resource_bundles = {
