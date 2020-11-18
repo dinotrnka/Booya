@@ -9,19 +9,11 @@ I just want to code.
   s.homepage         = 'https://www.google.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dinotrnka@gmail.com' => 'dinotrnka@gmail.com' }
-  s.source           = { :git => 'https://github.com/dinotrnka@gmail.com/Booya.git', :tag => "#{s.version}" }
+  s.source           = { :git => 'https://github.com/dinotrnka@gmail.com/Booya.git', :tag => s.version }
 
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5'
 
   s.source_files = 'Booya/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'Booya' => ['Booya/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
