@@ -1,0 +1,22 @@
+{
+  "name": "Booya",
+  "version": "0.1.0",
+  "summary": "A short description of Booya.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dinotrnka@gmail.com/Booya",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dinotrnka@gmail.com": "dinotrnka@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dinotrnka@gmail.com/Booya.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Booya/Classes/**/*"
+}

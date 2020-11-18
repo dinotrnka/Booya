@@ -1,0 +1,6 @@
+framework module Pods_Booya_Example {
+  umbrella header "Pods-Booya_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

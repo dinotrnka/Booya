@@ -1,0 +1,6 @@
+framework module Booya {
+  umbrella header "Booya-umbrella.h"
+
+  export *
+  module * { export * }
+}

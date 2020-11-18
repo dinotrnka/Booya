@@ -1,0 +1,16 @@
+PODS:
+  - Booya (0.1.0)
+
+DEPENDENCIES:
+  - Booya (from `../`)
+
+EXTERNAL SOURCES:
+  Booya:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Booya: cbe2fd6e716f2f1865042abb251b9bd52f5f5f4d
+
+PODFILE CHECKSUM: 042f85f497dc03698e61cd265a5c7a3cb1371796
+
+COCOAPODS: 1.9.3

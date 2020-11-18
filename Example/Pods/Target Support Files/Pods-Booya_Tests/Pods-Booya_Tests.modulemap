@@ -1,0 +1,6 @@
+framework module Pods_Booya_Tests {
+  umbrella header "Pods-Booya_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
