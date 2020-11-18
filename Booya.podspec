@@ -9,7 +9,7 @@ I just want to code.
   s.homepage         = 'https://www.google.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dinotrnka@gmail.com' => 'dinotrnka@gmail.com' }
-  s.source           = { :git => 'https://github.com/dinotrnka@gmail.com/Booya.git', :tag => "#{s.version}" }
+  s.source           = { :git => 'https://github.com/dinotrnka@gmail.com/Booya.git', :branch => "main" }
 
 
   s.ios.deployment_target = '13.0'
