@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Booya_Example' do
+  pod 'Booya', :path => '../'
+
+  target 'Booya_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
